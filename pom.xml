@@ -88,7 +88,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>json-api</artifactId>
-      <version>20231013-3.v20f3c247f2fe</version>
+      <version>20251224-185.v0cc18490c62c</version>
     </dependency>
 
     <!-- for workflow support -->
